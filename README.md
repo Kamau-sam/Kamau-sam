@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **skamau.6411@gmail.com**
 
-- ⚡ Fun fact **Unreactive, I can remain surprisingly calm at the center of the storm.**
+- ⚡ Fun fact **Babies Have 94 More Bones Than Adults.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
