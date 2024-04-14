@@ -23,6 +23,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
 </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Skamau_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Skamau_" height="30" width="40" /></a>
@@ -43,5 +44,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">End</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation"><h3 align="center">End</h3>
+
 
