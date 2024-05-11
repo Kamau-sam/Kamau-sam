@@ -46,7 +46,7 @@ I'm Kamau Samuel</h1>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation"><h3 align="center">End</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation"><h3 align="center">End of my Profile</h3>
 
 
 
