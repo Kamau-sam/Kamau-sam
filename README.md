@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, 
+<h1 align="center">  Hi
+   
+   👋, 
    
 I'm Kamau Samuel</h1>
 <h3 align="center">A Novice Software Developer</h3>
