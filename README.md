@@ -1,6 +1,10 @@
-h1 align="center"> Hi! 👋,
-I'm Kamau Samuel</h1>
-<h3 align="center">A Novice Software Developer</h3>
+<h1 align="center">Hi there! 👋</h1>
+
+<h3 align="center">I'm Kamau Samuel, a Novice Software Developer</h3>
+
+<p align="center">
+As an aspiring Software Engineer, I am enthusiastic about delving into server-side programming and database management. I am equally passionate about crafting exceptional user experiences through front-end technologies, thus bridging the gap between robust backend systems and intuitive, engaging interfaces.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kamau-sam&theme=onedark" alt="Kamau-sam" /></a> </p>
 - 🌱 I’m currently learning Front-End Software Development
