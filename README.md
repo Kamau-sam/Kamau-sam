@@ -39,7 +39,7 @@ As an aspiring Software Engineer, I am enthusiastic about delving into server-si
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
 </p>
 <p align="left">
-  I have experience working with JavaScript, HTML,  CSS  and React, I'm also familiar with Linux and Git for development workflows. I'm currently focusing on mastering Python
+  I have experience working with JavaScript, HTML,  CSS  and React, I'm also familiar with Linux and Git for development workflows.Currently focusing on mastering Python
 </p>
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs\_count=8&theme=neon" alt="Kamau-sam" />
