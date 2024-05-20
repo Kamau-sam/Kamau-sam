@@ -7,9 +7,9 @@ As an aspiring Software Engineer, I am enthusiastic about delving into server-si
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kamau-sam&theme=onedark" alt="Kamau-sam" /></a> </p>
-- 🌱 I’m currently learning Front-End Software Development
-- 📫 How to reach me skamau.6411@gmail.com
-- ⚡ Fun fact Babies Have 94 More Bones Than Adults
+- 🌱 I'm currently learning Front-End Software Development<br>
+- 📫 How to reach me skamau.6411@gmail.com<br>
+- ⚡ Fun fact Babies Have 94 More Bones Than Adults<br>
 <div>
 <a href="https://twitter.com/Skamau\_" target="\_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
