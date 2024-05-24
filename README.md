@@ -11,15 +11,12 @@
 <p align="center">
   As an aspiring Software Engineer, I am enthusiastic about delving into server-side programming and database management. I am equally passionate about crafting exceptional user experiences through front-end technologies, thus bridging the gap between robust backend systems and intuitive, engaging interfaces.
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" />
 </p>
 
-- 🌱 I'm currently learning Python <br>
-- 📫 How to reach me skamau.6411@gmail.com<br>
-- ⚡ Fun fact Babies Have 94 More Bones Than Adults<br>
-
-<div>
+<div align="center">
   <a href="https://twitter.com/Skamau_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
@@ -52,13 +49,26 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 <p align="left">
-  I have experience working with JavaScript, HTML,  CSS  and React, I'm also familiar with Linux and Git for development workflows.Currently focusing on mastering Python
+  I have experience working with JavaScript, HTML,  CSS and React. I'm also familiar with Linux and Git for development workflows. Currently focusing on mastering Python.
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Projects:</h3>
+<p align="left">
+  <ul>
+    <li><a href="https://github.com/Kamau-sam/project1">Project 1</a> - Brief description of what the project does and the technologies used.</li>
+    <li><a href="https://github.com/Kamau-sam/project2">Project 2</a> - Brief description of what the project does and the technologies used.</li>
+    <li><a href="https://github.com/Kamau-sam/project3">Project 3</a> - Brief description of what the project does and the technologies used.</li>
+  </ul>
+</p>
+
+<h3 align="left">Stars:</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation">
 
 <h3 align="center">Thanks for visiting my Profile</h3>
+<div align="center">
+  <p>📫 How to reach me: <a href="mailto:skamau.6411@gmail.com">skamau.6411@gmail.com</a></p>
+  <p>⚡ Fun fact: Babies Have 94 More Bones Than Adults</p>
+</div>
