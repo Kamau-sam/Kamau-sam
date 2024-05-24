@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<h3 align="center">I'm Kamau Samuel, Pharmaceutical Technologist / Software Developer</h3>
+<h3 align="center">I'm Kamau Samuel,</h3>
+<h3 align= "center" >Software Developer / Pharmaceutical Technologist</h3>
 
 <p align="center">
 As an aspiring Software Engineer, I am enthusiastic about delving into server-side programming and database management. I am equally passionate about crafting exceptional user experiences through front-end technologies, thus bridging the gap between robust backend systems and intuitive, engaging interfaces.
