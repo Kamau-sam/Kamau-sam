@@ -7,7 +7,7 @@ As an aspiring Software Engineer, I am enthusiastic about delving into server-si
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" /> </p>
 
-<p align="left"> <img src="[https://media.tenor.com/TKpmh4WFEsAAAAAC/test.gif](https://tenor.com/en-GB/view/test-typing-codes-gif-15828752)" alt="Typing GIF" /> </p>
+<p align="center"> <img src="https://media.tenor.com/en-GB/view/test-typing-codes-gif-15828752.gif" alt="Typing GIF" width="300" height="200" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kamau-sam&theme=onedark" alt="Kamau-sam" /></a> </p>
 
@@ -58,4 +58,5 @@ As an aspiring Software Engineer, I am enthusiastic about delving into server-si
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation">
 
 <h3 align="center">Thanks for visiting my Profile</h3>
+
 
