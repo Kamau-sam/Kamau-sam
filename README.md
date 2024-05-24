@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <h3 align="center">I'm Kamau Samuel,</h3>
-<h2 align="center">
-  <span>Software Developer</span> /
-  <span>Pharmaceutical Technologist</span>
+<h2 align="center">Software Developer
 </h2>
 
 <p align="center">
