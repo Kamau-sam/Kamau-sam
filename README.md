@@ -7,7 +7,7 @@ As an aspiring Software Engineer, I am enthusiastic about delving into server-si
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" /> </p>
 <p align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200"></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kamau-sam&theme=onedark" alt="Kamau-sam" /></a> </p>
+
 
 - 🌱 I'm currently learning Python <br>
 - 📫 How to reach me skamau.6411@gmail.com<br>
