@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<h3 align="center">I'm Kamau Samuel,</h3>
+<h3 align="center">I'm Kamau Samuel, a </h3>
 <h2 align="center">Software Developer
 </h2>
 
