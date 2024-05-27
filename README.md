@@ -62,5 +62,6 @@
 </p>
 
 <h3 align="center">Thanks for visiting my Profile</h3>
+<p align="center"><img src="[https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://camo.githubusercontent.com/414cf50bc6c7297931297d13ede96b13188d463ef7bb2ec7495d45ed05b11976/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f487363444c7a6b4f38454f546d676b6851502f67697068792e676966)" alt="Coding Animation" width="300" height="200"></p>
 
 
