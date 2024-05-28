@@ -3,8 +3,7 @@
 <h3 align="center">I'm Kamau Samuel, a </h3>
 <h2 align="center">Software Developer</h2>
 
-<p align="center">
-  As an aspiring Software Engineer, I am enthusiastic about delving into server-side programming and database management. I am equally passionate about crafting exceptional user experiences through front-end technologies, thus bridging the gap between robust backend systems and intuitive, engaging interfaces.
+<p align="center">I am enthusiastic about delving into server-side programming and database management. I am equally passionate about crafting exceptional user experiences through front-end technologies, thus bridging the gap between robust backend systems and intuitive, engaging interfaces.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" />
