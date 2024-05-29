@@ -34,6 +34,13 @@
   <a href="https://twitter.com/Skamau_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/x.svg" alt="Skamau_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/samuel-kamau-sk6411" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
+<p align="left">
+  <a href="https://twitter.com/Skamau_" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+      <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+    </svg>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -61,4 +68,5 @@
 </p>
 
 <h3 align="center">Thanks for visiting my Profile</h3>
+
 
