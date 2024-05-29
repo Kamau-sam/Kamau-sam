@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kamau Samuel's Profile</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
 <h1 align="center">Hi there! 👋</h1>
 
 <h3 align="center">I'm Kamau Samuel, a </h3>
@@ -36,9 +46,7 @@
 </p>
 <p align="left">
   <a href="https://twitter.com/Skamau_" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
-      <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
-    </svg>
+    <i class="fab fa-x-twitter" style="font-size: 30px;"></i>
   </a>
 </p>
 
@@ -69,4 +77,6 @@
 
 <h3 align="center">Thanks for visiting my Profile</h3>
 
+</body>
+</html>
 
