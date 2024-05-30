@@ -2,10 +2,10 @@
 
 <h2 align="center">I'm Kamau Samuel</h2>
 <h3 align="center">Software Developer</h3>
+<h3 align="center">Fun Fact:</h3>
+<p align="center"> The term "bug" in computer programming originated from an actual insect. In 1947, a moth was found stuck in the Harvard Mark II computer, causing a malfunction. The operators noted this event as the first "bug" in the system's log book.</p>
 
-<p align="center">
-  I am a passionate software developer with a keen interest in server-side programming and database management. I strive to create exceptional user experiences by bridging the gap between robust backend systems and intuitive, engaging interfaces.
-</p>
+
 
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200">
@@ -52,7 +52,5 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation">
 </p>
 
-<h3 align="center">Fun Fact:</h3>
-<p align="center"> The term "bug" in computer programming originated from an actual insect. In 1947, a moth was found stuck in the Harvard Mark II computer, causing a malfunction. The operators noted this event as the first "bug" in the system's log book.</p>
 
 <h3 align="center">Thanks for visiting my Profile!</h3>
