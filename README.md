@@ -5,78 +5,70 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Kamau Samuel's Profile</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
 
-<h1 align="center">Hi there! 👋</h1>
+<div class="container py-5">
+  <h1 class="text-center mb-3">Hi there 👋</h1>
+  <h2 class="text-center mb-3">I'm Kamau Samuel, a Software Developer</h2>
+  <p class="text-center mb-4">Enthusiastic about server-side programming, database management, and crafting exceptional user experiences.</p>
+  
+  <!-- GitHub View Counter -->
+  <div class="d-flex justify-content-center mb-4">
+    <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" />
+  </div>
+  
+  <!-- Coding Animation -->
+  <div class="d-flex justify-content-center mb-4">
+    <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200">
+  </div>
 
-<h3 align="center">I'm Kamau Samuel, a </h3>
-<h2 align="center">Software Developer</h2>
+  <!-- About Section -->
+  <section class="mb-5">
+    <h3>About Me</h3>
+    <p>I am passionate about creating seamless user experiences through both front-end and back-end technologies.</p>
+  </section>
 
-<p align="center">I am enthusiastic about delving into server-side programming and database management. I am equally passionate about crafting exceptional user experiences through front-end technologies, thus bridging the gap between robust backend systems and intuitive, engaging interfaces.
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" />
-</p>
-<p align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200"></p>
+  <!-- Contact Section -->
+  <section class="mb-5">
+    <h3>Contact Me</h3>
+    <ul class="list-unstyled">
+      <li><a href="https://github.com/Kamau-sam" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></li>
+      <li><a href="https://www.linkedin.com/in/samuel-kamau-sk6411" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
+      <li><a href="https://twitter.com/Skamau_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a></li>
+      <li><a href="mailto:skamau.6411@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></li>
+    </ul>
+  </section>
 
-- 🌱 I'm currently learning Python <br>
-- 📫 How to reach me: [skamau.6411@gmail.com](mailto:skamau.6411@gmail.com)<br>
-- ⚡ Fun fact: Babies Have 94 More Bones Than Adults
+  <!-- Languages and Tools -->
+  <section class="mb-5">
+    <h3>Languages and Tools</h3>
+    <p>Experienced in JavaScript, HTML, CSS, React, Node.js, and Python. Proficient in Linux and Git.</p>
+  </section>
 
-<div align="center">
-  <a href="https://github.com/Kamau-sam" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-kamau-sk6411" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Skamau_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:skamau.6411@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <!-- Stars -->
+  <section class="mb-5">
+    <h3>Stars</h3>
+    <div class="row">
+      <div class="col-md-6">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Top Langs" />
+      </div>
+      <div class="col-md-6">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Streak Stats" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Thanks Message -->
+  <section class="text-center mb-5">
+    <h3>Thanks for visiting my Profile!</h3>
+  </section>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/Skamau_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/x.svg" alt="Skamau_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/samuel-kamau-sk6411" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
-<p align="left">
-  <a href="https://twitter.com/Skamau_" target="_blank">
-    <i class="fab fa-x-twitter" style="font-size: 30px;"></i>
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" title="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" title="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" title="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" title="NodeJs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
-</p>
-<p align="left">
-  I have experience working with JavaScript, HTML, CSS, and React. I'm also familiar with Linux and Git for development workflows. Currently focusing on mastering Python.
-</p>
-
-<h3 align="left">Stars</h3>
-<p align="left">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation">
-</p>
-
-<h3 align="center">Thanks for visiting my Profile</h3>
-
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
 
