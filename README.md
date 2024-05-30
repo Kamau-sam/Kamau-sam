@@ -1,74 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kamau Samuel's Profile</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-</head>
-<body>
+<h1 align="center">Hi there! 👋</h1>
 
-<div class="container py-5">
-  <h1 class="text-center mb-3">Hi there 👋</h1>
-  <h2 class="text-center mb-3">I'm Kamau Samuel, a Software Developer</h2>
-  <p class="text-center mb-4">Enthusiastic about server-side programming, database management, and crafting exceptional user experiences.</p>
-  
-  <!-- GitHub View Counter -->
-  <div class="d-flex justify-content-center mb-4">
-    <img src="https://komarev.com/ghpvc/?username=Kamau-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Kamau-sam" />
-  </div>
-  
-  <!-- Coding Animation -->
-  <div class="d-flex justify-content-center mb-4">
-    <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200">
-  </div>
+<h2 align="center">I'm Kamau Samuel</h2>
+<h3 align="center">Software Developer</h3>
 
-  <!-- About Section -->
-  <section class="mb-5">
-    <h3>About Me</h3>
-    <p>I am passionate about creating seamless user experiences through both front-end and back-end technologies.</p>
-  </section>
+<p align="center">
+  I am a passionate software developer with a keen interest in server-side programming and database management. I strive to create exceptional user experiences by bridging the gap between robust backend systems and intuitive, engaging interfaces.
+</p>
 
-  <!-- Contact Section -->
-  <section class="mb-5">
-    <h3>Contact Me</h3>
-    <ul class="list-unstyled">
-      <li><a href="https://github.com/Kamau-sam" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></li>
-      <li><a href="https://www.linkedin.com/in/samuel-kamau-sk6411" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
-      <li><a href="https://twitter.com/Skamau_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a></li>
-      <li><a href="mailto:skamau.6411@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></li>
-    </ul>
-  </section>
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200">
+</p>
 
-  <!-- Languages and Tools -->
-  <section class="mb-5">
-    <h3>Languages and Tools</h3>
-    <p>Experienced in JavaScript, HTML, CSS, React, Node.js, and Python. Proficient in Linux and Git.</p>
-  </section>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://github.com/Kamau-sam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-kamau-sk6411" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Skamau_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:skamau.6411@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-  <!-- Stars -->
-  <section class="mb-5">
-    <h3>Stars</h3>
-    <div class="row">
-      <div class="col-md-6">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Top Langs" />
-      </div>
-      <div class="col-md-6">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Streak Stats" />
-      </div>
-    </div>
-  </section>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" title="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" title="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" title="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" title="NodeJs" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
+</p>
+<p align="center">
+  I have experience working with JavaScript, HTML, CSS, and React. I'm also familiar with Linux and Git for development workflows. Currently focusing on mastering Python.
+</p>
 
-  <!-- Thanks Message -->
-  <section class="text-center mb-5">
-    <h3>Thanks for visiting my Profile!</h3>
-  </section>
-</div>
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
+</p>
 
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation">
+</p>
 
+<h3 align="center">Fun Fact:</h3>
+<p align="center">The first computer virus was created in 1986 by two brothers, Basit and Amjad Farooq Alvi, who were students at the time.</p>
+
+<h3 align="center">Thanks for visiting my Profile!</h3>
