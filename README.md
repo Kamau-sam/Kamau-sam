@@ -53,6 +53,6 @@
 </p>
 
 <h3 align="center">Fun Fact:</h3>
-<p align="center">The first computer virus was created in 1986 by two brothers, Basit and Amjad Farooq Alvi, who were students at the time.</p>
+<p align="center">The Origin of the Word "Bug": The term "bug" in computer programming originated from an actual insect. In 1947, a moth was found stuck in the Harvard Mark II computer, causing a malfunction. The operators noted this event as the first "bug" in the system's log book.</p>
 
 <h3 align="center">Thanks for visiting my Profile!</h3>
