@@ -29,9 +29,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
-</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <table align="center">
@@ -68,7 +65,9 @@
 <p align="center">
   I have experience working with JavaScript, HTML, CSS, and React. I'm also familiar with Linux and Git for development workflows. Currently focusing on mastering Python.
 </p>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
+</p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
