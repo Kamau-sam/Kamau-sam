@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ1cDU1a2tjcjBtbnRnemp4dWpwODN5ZmcybGNtaXY3dG8xa2FxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp" alt="New Coding Animation" width="300" height="200">
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -69,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
 </p>
 
 <h3 align="center">Thanks for visiting my Profile!</h3>
