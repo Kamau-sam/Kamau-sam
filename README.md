@@ -2,7 +2,6 @@
 
 <h2 align="center">I'm Kamau Samuel</h2>
 <h3 align="center">Software Developer</h3>
-<h3 align="center">Fun Fact:</h3>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
 </p>
 <p align="center">
