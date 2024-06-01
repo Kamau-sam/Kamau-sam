@@ -4,7 +4,6 @@
 <h3 align="center">Software Developer</h3>
 <h3 align="center">Fun Fact:</h3>
 <p align="center"> The term "bug" in computer programming originated from an actual insect. In 1947, a moth was found stuck in the Harvard Mark II computer, causing a malfunction. The operators noted this event as the first "bug" in the system's log book.</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
 </p>
@@ -12,7 +11,8 @@
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ1cDU1a2tjcjBtbnRnemp4dWpwODN5ZmcybGNtaXY3dG8xa2FxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp" alt="New Coding Animation" width="300" height="200">
 </p>
-
+<h3 align="center">Fun Fact:</h3>
+<p align="center"> The term "bug" in computer programming originated from an actual insect. In 1947, a moth was found stuck in the Harvard Mark II computer, causing a malfunction. The operators noted this event as the first "bug" in the system's log book.</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/Kamau-sam" target="_blank">
