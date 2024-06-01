@@ -1,16 +1,15 @@
 <h1 align="center">Hi there! 👋</h1>
-
 <h2 align="center">I'm Kamau Samuel</h2>
 <h3 align="center">Software Developer</h3>
 <h3 align="center">Fun Fact:</h3>
 <p align="center"> The term "bug" in computer programming originated from an actual insect. In 1947, a moth was found stuck in the Harvard Mark II computer, causing a malfunction. The operators noted this event as the first "bug" in the system's log book.</p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
 </p>
+<h3 align="center">Let's Code!</h3>
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Animation" width="300" height="200">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ1cDU1a2tjcjBtbnRnemp4dWpwODN5ZmcybGNtaXY3dG8xa2FxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp" alt="New Coding Animation" width="300" height="200">
 </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://github.com/Kamau-sam" target="_blank">
@@ -26,7 +25,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <table align="center">
@@ -68,10 +66,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
 </p>
-
 <h3 align="center">Thanks for visiting my Profile!</h3>
-
