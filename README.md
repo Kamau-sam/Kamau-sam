@@ -56,10 +56,15 @@
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" title="Python" width="48" height="48"/>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="SQL" title="SQL" width="48" height="48"/>
+      </td>
+    </tr>
   </table>
 </p>
 <p align="center">
-  I have experience working with JavaScript, HTML, CSS, and React. I'm also familiar with Linux and Git for development workflows. Currently focusing on mastering Python.
+  I have experience working with JavaScript, HTML, CSS, and React. I'm also familiar with Linux and Git for development workflows. Currently focusing on mastering Python and SQL.
 </p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
@@ -70,3 +75,4 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
 </p>
 <h3 align="center">Thanks for visiting my Profile!</h3>
+
