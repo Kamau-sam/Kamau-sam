@@ -73,22 +73,6 @@
   I have experience working with JavaScript, HTML, CSS, and React. I'm also familiar with Linux and Git for development workflows. Currently focusing on mastering Python and SQL.
 </p>
 
-<h3 align="center">Projects:</h3>
-<p align="center">
-  <ul>
-    <li><a href="https://github.com/Kamau-sam/project1" target="_blank">Project 1</a>: A brief description of what this project does.</li>
-    <li><a href="https://github.com/Kamau-sam/project2" target="_blank">Project 2</a>: A brief description of what this project does.</li>
-  </ul>
-</p>
-
-<h3 align="center">Experience:</h3>
-<p align="center">
-  <ul>
-    <li><b>Company Name</b> - <i>Role</i> (Month Year - Present): Description of your role and achievements.</li>
-    <li><b>Company Name</b> - <i>Role</i> (Month Year - Month Year): Description of your role and achievements.</li>
-  </ul>
-</p>
-
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
