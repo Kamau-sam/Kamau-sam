@@ -69,9 +69,7 @@
   </table>
 </p>
 
-<p align="center">
-  I have experience working with JavaScript, HTML, CSS, and React. I'm also familiar with Linux and Git for development workflows. Currently focusing on mastering Python and SQL.
-</p>
+
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
