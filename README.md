@@ -81,6 +81,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
 </p>
 
-<h3 align="center">Thanks for visiting my Profile!</h3>
-<p align="center">Feel free to reach out if you want to collaborate on a project or just want to say hi!</p>
+<p align="center">Feel free to reach out if you want to collaborate on a project </p>
+<h3 align="center">End of Profile!</h3>
 
