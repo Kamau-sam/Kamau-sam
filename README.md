@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tech Stack:</h3>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="50">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="50">
@@ -55,13 +55,11 @@
 
 <h3 align="center">Coding Activity:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=radical" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=tokyonight" alt="Wakatime Stats" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=00b3ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
-
 
 <h3 align="center">Random Dev Quote:</h3>
 <p align="center">
