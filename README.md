@@ -44,36 +44,10 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamau-sam&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kamau-sam&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<h3 align="center">Coding Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau_sam&theme=radical" alt="Wakatime Stats" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
-
-<h3 align="center">Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%">
-</p>
-
-<p align="center">Feel free to reach out if you want to collaborate on a project </p>
-<h3 align="center">End of Profile!</h3>
-
