@@ -3,13 +3,12 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=00b3ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<h3 align="center">Fun Fact:</h3>
+<h3 align="center">Random Dev Quote:</h3>
 <p align="center">
-  The term "bug" in computer programming originated from an actual insect. In 1947, a moth was found stuck in the Harvard Mark II computer, causing a malfunction. The operators noted this event as the first "bug" in the system's log book.
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="50">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 <h3 align="center">Let's Code!</h3>
@@ -57,12 +56,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=tokyonight" alt="Wakatime Stats" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=00b3ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
 
-<h3 align="center">Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
 
