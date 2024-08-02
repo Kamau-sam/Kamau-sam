@@ -54,7 +54,7 @@
 
 <h3 align="center">Coding Activity:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=dracula" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=blueviolet" alt="Wakatime Stats" />
 </p>
 
 
