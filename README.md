@@ -39,7 +39,8 @@
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="NodeJS" width="50">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="50">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="100">
-  <img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" alt="MySQL" width="50">
+  <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" alt="MySQL" width="70" height="70"/>
+
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
