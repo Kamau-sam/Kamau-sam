@@ -99,9 +99,9 @@ the waka time user on the coding activity should be the one   in <h1 align="cent
 </p>
 </div><div id="badges">
 
- [![wakatime](https://[(https://wakatime.com/@Kamau).svg)](https://wakatime.com/@Kamau))  
+ [![wakatime](https://wakatime.com/badge/user/018b99a0-62e0-444c-9dce-c4cd58ce5366.svg)](https://wakatime.com/@Kamau)
 <h3 align="center">Coding Activity:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=tokyonight&v=2" alt="Wakatime Stats" />
-</p>
+</p>>
 https://wakatime.com/@Kamau
