@@ -2,7 +2,7 @@
 <h2 align="center">I'm Kamau Samuel</h2>
 <h3 align="center">Software Developer</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=00b3ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
@@ -43,7 +43,6 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="50">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="100">
   <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" alt="MySQL" width="70" height="70"/>
-
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
@@ -54,7 +53,8 @@
 
 <h3 align="center">Coding Activity:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=tokyonight" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=tokyonight&v=2" alt="Wakatime Stats" />
 </p>
+
 
 
