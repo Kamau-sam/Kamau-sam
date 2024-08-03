@@ -41,11 +41,11 @@
 </p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img align="leftr" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
-  <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
 </p>
 <h3 align="center">Coding Activity:</h3>
-<p align="center">
+<p align="left">
   <a href="https://wakatime.com/@Kamau" target="_blank">
     <img src="https://wakatime.com/badge/user/018b99a0-62e0-444c-9dce-c4cd58ce5366.svg" alt="Total time coded since Apr 4 2023" />
   </a>
