@@ -51,6 +51,12 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
 </p>
 
+
+</div><div id="badges">
+ <img src="https://komarev.com/ghpvc/?username=kamau&style=flat-square&color=blue" alt=""/>  
+  
+ [![wakatime](https://wakatime.com/badge/user/cd864093-271b-4687-a26a-daaa5f2f8f70.svg)](https://wakatime.com/@cd864093-271b-4687-a26a-daaa5f2f8f70)  
+
 <h3 align="center">Coding Activity:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=tokyonight&v=2" alt="Wakatime Stats" />
