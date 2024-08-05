@@ -50,14 +50,12 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
 </p>
-
 <h3 align="center">Coding Activity:</h3>
-<p align="left">
+<p align="center">
   <a href="https://wakatime.com/@Kamau" target="_blank">
     <img src="https://wakatime.com/badge/user/018b99a0-62e0-444c-9dce-c4cd58ce5366.svg" alt="Total time coded since Apr 4 2023" />
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&api_key=
-waka_751a20d2-d9ce-40b4-aeeb-c47e521f41c1&theme=tokyonight&v=2" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau" alt="Wakatime Stats" />
 </p>
