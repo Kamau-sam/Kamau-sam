@@ -32,18 +32,45 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
 <h3 align="center">Tech Stack:</h3>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="50">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="50">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="50">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="NodeJS" width="50">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="100">
-  <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" alt="MySQL" width="70" height="70"/>
-</p>
+<table align="center" style="border-collapse: separate; border-spacing: 10px; background-color: #0d1117; border-radius: 10px; padding: 10px;">
+  <tr>
+    <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
+      <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="50" height="50">
+      <br>JavaScript
+    </td>
+    <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
+      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="50" height="50">
+      <br>HTML5
+    </td>
+    <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
+      <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="50" height="50">
+      <br>CSS3
+    </td>
+    <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
+      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" height="50">
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
+      <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="NodeJS" width="50" height="50">
+      <br>NodeJS
+    </td>
+    <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="50" height="50">
+      <br>Python
+    </td>
+    <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="100" height="50">
+      <br>Git
+    </td>
+    <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
+      <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" alt="MySQL" width="70" height="50">
+      <br>MySQL
+    </td>
+  </tr>
+</table>>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
