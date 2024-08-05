@@ -46,11 +46,13 @@
 </p>
 <h3 align="center">Coding Activity:</h3>
 <h3 align="center">Total Coding Time:</h3>
+<h3 align="center">Total Coding Time:</h3>
 <p align="center">
   <a href="https://wakatime.com/@Kamau" target="_blank">
-    <img src="https://img.shields.io/badge/Total%20Hours%20Clocked-1000%20hours-brightgreen" alt="Total Coding Time" />
+    <img src="https://yourserver.com/badge?hours=1000" alt="Total Coding Time" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=tokyonight&v=2" alt="Wakatime Stats" />
