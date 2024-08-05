@@ -2,8 +2,14 @@
 <h2 align="center">I'm Kamau Samuel</h2>
 <h3 align="center">Software Developer</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=00b3ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kamau-sam?tab=repositories">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Check+out+my+projects!;Always+learning+new+things&center=true&width=380&height=45">
+  </a>
 </p>
 
 <h3 align="center">Random Dev Quote:</h3>
@@ -32,7 +38,15 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-<h3 align="center">Tech Stack:</h3>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Tech Stack:
+</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,mysql&perline=4" />
+</p>
+
 <table align="center" style="border-collapse: separate; border-spacing: 10px; background-color: #0d1117; border-radius: 10px; padding: 10px;">
   <tr>
     <td style="text-align: center; padding: 10px; border: 1px solid #30363d; border-radius: 5px;">
@@ -70,17 +84,42 @@
       <br>MySQL
     </td>
   </tr>
-</table>>
+</table>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kamau-sam&show_icons=true&theme=radical" alt="Kamau-sam's GitHub stats" />
 </p>
-<h3 align="center">Coding Activity:</h3>
-<a href="https://wakatime.com/@Kamau" target="_blank">
-  <img src="https://img.shields.io/badge/Wakatime-View%20My%20Coding%20Activity-blue" alt="View My Coding Activity" />
-</a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau" alt="Wakatime Stats" />
-</p>>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=radical" alt="Kamau-sam" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=radical" alt="Kamau-sam" />
+</p>
+
+<h3 align="center">Coding Activity:</h3>
+<p align="center">
+  <a href="https://wakatime.com/@Kamau" target="_blank">
+    <img src="https://wakatime.com/badge/user/Kamau.svg" alt="Total time coded since Apr 4 2023" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=radical" alt="Wakatime Stats" />
+</p>
+
+<h3 align="center">Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/Kamau-sam/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamau-sam&repo=project1&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Kamau-sam/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamau-sam&repo=project2&theme=radical" alt="Project 2" />
+  </a>
+</p>
+
+<h3 align="center">Recent Activity</h3>
+<p align="center">
+  <a href="https://github.com/Kamau-sam"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kamau-sam&theme=react-dark" alt="Kamau-sam's GitHub Activity Graph" /></a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Kamau-sam}/count.svg" alt="Visitor Count" />
+</p>
