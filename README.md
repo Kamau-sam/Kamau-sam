@@ -45,12 +45,13 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
 </p>
 <h3 align="center">Coding Activity:</h3>
-
-Copy code
 <h3 align="center">Total Coding Time:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Hours%20Clocked-1000%20hours-brightgreen" alt="Total Coding Time" />
+  <a href="https://wakatime.com/@Kamau" target="_blank">
+    <img src="https://img.shields.io/badge/Total%20Hours%20Clocked-1000%20hours-brightgreen" alt="Total Coding Time" />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=tokyonight&v=2" alt="Wakatime Stats" />
 </p>
