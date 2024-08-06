@@ -92,11 +92,9 @@
 
 
 <h3 align="center">Coding Activity:</h3>
-<p align="center">
-  <a href="https://wakatime.com/@Kamau" target="_blank">
-    <img src="https://wakatime.com/badge/user/Kamau.svg" alt="Total time coded since Apr 4 2023" />
-  </a>
-</p>
+<a href="https://wakatime.com/@Kamau" target="_blank">
+  <img src="https://img.shields.io/badge/Wakatime-View%20My%20Coding%20Activity-blue" alt="View My Coding Activity" />
+</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=radical" alt="Wakatime Stats" />
 </p>
