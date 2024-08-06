@@ -2,7 +2,7 @@
 <h2 align="center">I'm Kamau Samuel</h2>
 <h3 align="center">Software Developer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kamau-sam&color=00b3ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
@@ -96,8 +96,7 @@
   <img src="https://img.shields.io/badge/Wakatime-View%20My%20Coding%20Activity-blue" alt="View My Coding Activity" />
 </a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=neon
-    " alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=neon" alt="Wakatime Stats" />
 </p>
 
 
