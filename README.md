@@ -85,11 +85,11 @@
 </table>
 
 <h3 align="center">GitHub Stats:</h3>
-
 <p align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=radical" alt="Kamau-sam" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=radical" alt="Kamau-sam" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=neon" alt="Kamau-sam" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=neon-dark" alt="Kamau-sam" />
 </p>
+
 
 <h3 align="center">Coding Activity:</h3>
 <p align="center">
