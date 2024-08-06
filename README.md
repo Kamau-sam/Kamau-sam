@@ -96,16 +96,10 @@
   <img src="https://img.shields.io/badge/Wakatime-View%20My%20Coding%20Activity-blue" alt="View My Coding Activity" />
 </a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=radical" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=neon
+    " alt="Wakatime Stats" />
 </p>
 
 
 
-<h3 align="center">Recent Activity</h3>
-<p align="center">
-  <a href="https://github.com/Kamau-sam"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kamau-sam&theme=react-dark" alt="Kamau-sam's GitHub Activity Graph" /></a>
-</p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Kamau-sam}/count.svg" alt="Visitor Count" />
-</p>
