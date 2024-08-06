@@ -43,9 +43,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   Tech Stack:
 </h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,mysql&perline=4" />
-</p>
+
 
 <table align="center" style="border-collapse: separate; border-spacing: 10px; background-color: #0d1117; border-radius: 10px; padding: 10px;">
   <tr>
@@ -87,9 +85,7 @@
 </table>
 
 <h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamau-sam&show_icons=true&theme=radical" alt="Kamau-sam's GitHub stats" />
-</p>
+
 <p align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamau-sam&langs_count=8&theme=radical" alt="Kamau-sam" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-sam&theme=radical" alt="Kamau-sam" />
@@ -105,15 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kamau&theme=radical" alt="Wakatime Stats" />
 </p>
 
-<h3 align="center">Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/Kamau-sam/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamau-sam&repo=project1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Kamau-sam/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamau-sam&repo=project2&theme=radical" alt="Project 2" />
-  </a>
-</p>
+
 
 <h3 align="center">Recent Activity</h3>
 <p align="center">
