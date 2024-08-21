@@ -11,7 +11,6 @@ Samuel_Kamau = Developer(
     tech=["Javascript", "Python", "SQL"]
 )
 
-# To print the details
 print(f"Name: {Samuel_Kamau.name}")
 print(f"Role: {Samuel_Kamau.role}")
 print(f"Technologies: {', '.join(Samuel_Kamau.tech)}")
