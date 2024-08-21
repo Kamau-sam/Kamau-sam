@@ -15,6 +15,4 @@ print(f"Name: {Samuel_Kamau.name}")
 print(f"Role: {Samuel_Kamau.role}")
 print(f"Technologies: {', '.join(Samuel_Kamau.tech)}
 <h3 align="center" Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+
