@@ -1,3 +1,4 @@
+```python
 class Developer:
     def __init__(self, name, role, tech):
         self.name = name
@@ -7,12 +8,11 @@ class Developer:
 Samuel_Kamau = Developer(
     name="Samuel Kamau",
     role="Software Developer",
-    tech=["Javascript", "Python", "Sql",]
+    tech=["Javascript", "Python", "SQL"]
 )
 
 # To print the details
 print(f"Name: {Samuel_Kamau.name}")
-print(f"Role: Samuel_Kamau.role}")
+print(f"Role: {Samuel_Kamau.role}")
 print(f"Technologies: {', '.join(Samuel_Kamau.tech)}")
-
 
