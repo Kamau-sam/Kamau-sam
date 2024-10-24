@@ -11,7 +11,7 @@ import hashlib
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
 # Set environment variables
-os.environ['ACCESS_TOKEN'] = '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' 
+os.environ['ACCESS_TOKEN'] = 'xxx' 
 os.environ['USER_NAME'] = 'Kamau-sam'  # Your GitHub username
 
 # Headers and configuration
