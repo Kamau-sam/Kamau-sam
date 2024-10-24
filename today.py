@@ -6,26 +6,20 @@ from xml.dom import minidom
 import time
 import hashlib
 
-# Fine-grained personal access token with All Repositories access:
-# Account permissions: read:Followers, read:Starring, read:Watching
-# Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
-# Issues and pull requests permissions not needed at the moment, but may be used in the future
+# Configuration constants
+USER_NAME = 'Kamau-sam'  # Updated username
 HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-USER_NAME = os.environ['USER_NAME'] # 'Andrew6rant'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
-
 
 def daily_readme(birthday):
     """
-    Returns the length of time since I was born
-    e.g. 'XX years, XX months, XX days'
+    Returns the length of time since March 1st, 2024
+    e.g. 'XX months, XX days'
     """
     diff = relativedelta.relativedelta(datetime.datetime.today(), birthday)
-    return '{} {}, {} {}, {} {}{}'.format(
-        diff.years, 'year' + format_plural(diff.years), 
-        diff.months, 'month' + format_plural(diff.months), 
-        diff.days, 'day' + format_plural(diff.days),
-        ' 🎂' if (diff.months == 0 and diff.days == 0) else '')
+    return '{} {}, {} {}'.format(
+        diff.months, 'month' + format_plural(diff.months),
+        diff.days, 'day' + format_plural(diff.days))
 
 
 def format_plural(unit):
@@ -315,14 +309,15 @@ def stars_counter(data):
     for node in data: total_stars += node['node']['stargazers']['totalCount']
     return total_stars
 
-
 def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib_data, follower_data, loc_data):
     """
-    Parse SVG files and update elements with my age, commits, stars, repositories, and lines written
+    Parse SVG files and update elements with profile data
     """
     svg = minidom.parse(filename)
     f = open(filename, mode='w', encoding='utf-8')
     tspan = svg.getElementsByTagName('tspan')
+    
+    # Update the SVG with new values
     tspan[30].firstChild.data = age_data
     tspan[65].firstChild.data = repo_data
     tspan[67].firstChild.data = contrib_data
@@ -334,7 +329,6 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     tspan[77].firstChild.data = loc_data[1] + '--'
     f.write(svg.toxml('utf-8').decode('utf-8'))
     f.close()
-
 
 def commit_counter(comment_size):
     """
