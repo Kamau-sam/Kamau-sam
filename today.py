@@ -6,10 +6,25 @@ from xml.dom import minidom
 import time
 import hashlib
 
-# Configuration constants
-USER_NAME = 'Kamau-sam'  # Updated username
+# Fine-grained personal access token with All Repositories access:
+# Account permissions: read:Followers, read:Starring, read:Watching
+# Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
+# Issues and pull requests permissions not needed at the moment, but may be used in the future
+# Set environment variables
+os.environ['ACCESS_TOKEN'] = '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' 
+os.environ['USER_NAME'] = 'Kamau-sam'  # Your GitHub username
+
+# Headers and configuration
 HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
+USER_NAME = os.environ['USER_NAME']
+QUERY_COUNT = {
+    'user_getter': 0, 
+    'follower_getter': 0, 
+    'graph_repos_stars': 0, 
+    'recursive_loc': 0, 
+    'graph_commits': 0, 
+    'loc_query': 0
+}
 
 def daily_readme(birthday):
     """
@@ -20,7 +35,6 @@ def daily_readme(birthday):
     return '{} {}, {} {}'.format(
         diff.months, 'month' + format_plural(diff.months),
         diff.days, 'day' + format_plural(diff.days))
-
 
 def format_plural(unit):
     """
@@ -329,6 +343,7 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     tspan[77].firstChild.data = loc_data[1] + '--'
     f.write(svg.toxml('utf-8').decode('utf-8'))
     f.close()
+
 
 def commit_counter(comment_size):
     """
