@@ -53,9 +53,12 @@ class GitHubStats:
         )
             
         self.headers = {
-            'Authorization': f'Bearer {self.access_token}',
+            'Authorization': f'token {self.access_token}',
             'Accept': 'application/vnd.github.v4+json'
         }
+        
+        # Validate token immediately
+        self._validate_token()
         
         # Configure cache
         self.cache_dir = Path('cache')
@@ -72,6 +75,76 @@ class GitHubStats:
         }
         
         self.logger.info(f"GitHubStats initialized for user: {self.user_name}")
+
+    def _validate_token(self) -> None:
+        """
+        Validate GitHub token by making test requests to verify permissions.
+        
+        Raises:
+            Exception: If token is invalid or has insufficient permissions
+        """
+        try:
+            # Test basic authentication
+            user_response = requests.get(
+                'https://api.github.com/user',
+                headers=self.headers,
+                timeout=10
+            )
+            
+            if user_response.status_code == 401:
+                raise Exception(
+                    "Invalid GitHub token. Please check your token and ensure it has the required permissions:\n"
+                    "- repo (Full control of private repositories)\n"
+                    "- read:user (Read ALL user profile data)\n"
+                    "- user:email (Access user email addresses)\n"
+                    "- read:org (Read org and team membership)"
+                )
+            user_response.raise_for_status()
+            
+            # Verify repository access
+            query = """
+            query {
+              viewer {
+                repositories(first: 1, privacy: PRIVATE) {
+                  nodes {
+                    nameWithOwner
+                    isPrivate
+                  }
+                }
+              }
+            }
+            """
+            
+            repo_response = requests.post(
+                'https://api.github.com/graphql',
+                json={'query': query},
+                headers=self.headers,
+                timeout=10
+            )
+            
+            if repo_response.status_code != 200:
+                raise Exception("Unable to access repository data. Check if token has 'repo' scope.")
+                
+            repo_data = repo_response.json()
+            if 'errors' in repo_data:
+                raise Exception(
+                    "Insufficient permissions to access private repositories. "
+                    "Please ensure your token has the 'repo' scope."
+                )
+                
+            # Verify user data access
+            user_data = user_response.json()
+            if user_data.get('login') != self.user_name:
+                self.logger.warning(
+                    f"Token belongs to user '{user_data.get('login')}' "
+                    f"but username is set to '{self.user_name}'. "
+                    "This might cause unexpected behavior."
+                )
+                
+            self.logger.info("Successfully validated token with full repository access")
+                
+        except requests.exceptions.RequestException as e:
+            raise Exception(f"Failed to validate GitHub token: {str(e)}")
 
     def _get_credential(
         self,
@@ -103,7 +176,7 @@ class GitHubStats:
         for key in env_keys:
             value = os.getenv(key)
             if value:
-                return value
+                return value.strip()  # Added strip() to remove any whitespace
                 
         # Build error message
         error_msg = [
@@ -316,7 +389,7 @@ class GitHubStats:
         
         Returns:
             Dict containing various GitHub statistics including:
-            - Repository count
+            - Repository count (total, public, private)
             - Total stars
             - Lines of code
             - Follower count
@@ -329,25 +402,46 @@ class GitHubStats:
             repos = self.get_repositories(['OWNER', 'COLLABORATOR'])
             
             # Calculate basic stats
+            public_repos = [repo for repo in repos if not repo['isPrivate']]
+            private_repos = [repo for repo in repos if repo['isPrivate']]
+            
             stats = {
-                'repository_count': len(repos),
-                'total_stars': sum(repo['stargazerCount'] for repo in repos),
-                'public_repos': len([repo for repo in repos if not repo['isPrivate']]),
-                'private_repos': len([repo for repo in repos if repo['isPrivate']]),
+                'repository_count': {
+                    'total': len(repos),
+                    'public': len(public_repos),
+                    'private': len(private_repos)
+                },
+                'stars': {
+                    'total': sum(repo['stargazerCount'] for repo in repos),
+                    'public': sum(repo['stargazerCount'] for repo in public_repos),
+                    'private': sum(repo['stargazerCount'] for repo in private_repos)
+                },
                 'followers': self.get_followers()
             }
             
             # Calculate LOC stats
-            total_loc = {'additions': 0, 'deletions': 0, 'total': 0}
-            for repo in tqdm(repos, desc="Calculating repository statistics"):
-                try:
-                    repo_loc = self.calculate_loc(repo)
-                    for key in total_loc:
-                        total_loc[key] += repo_loc[key]
-                except Exception as e:
-                    self.logger.warning(f"Failed to calculate LOC for {repo['nameWithOwner']}: {str(e)}")
+            def calculate_repo_stats(repositories):
+                loc_stats = {'additions': 0, 'deletions': 0, 'total': 0}
+                for repo in repositories:
+                    try:
+                        repo_loc = self.calculate_loc(repo)
+                        for key in loc_stats:
+                            loc_stats[key] += repo_loc[key]
+                    except Exception as e:
+                        self.logger.warning(f"Failed to calculate LOC for {repo['nameWithOwner']}: {str(e)}")
+                return loc_stats
             
-            stats['lines_of_code'] = total_loc
+            self.logger.info("Calculating public repository statistics...")
+            stats['lines_of_code'] = {
+                'public': calculate_repo_stats(public_repos),
+                'private': calculate_repo_stats(private_repos)
+            }
+            
+            # Add total LOC
+            stats['lines_of_code']['total'] = {
+                key: stats['lines_of_code']['public'][key] + stats['lines_of_code']['private'][key]
+                for key in ['additions', 'deletions', 'total']
+            }
             
             # Calculate account age
             start_date = datetime.datetime(2020, 1, 1)  # Replace with actual account creation date
@@ -368,3 +462,12 @@ if __name__ == '__main__':
         print(json.dumps(stats, indent=2))
     except Exception as e:
         logging.error(f"Error: {str(e)}")
+        print("\nPlease check that:")
+        print("1. You have created a .env file with your GitHub token")
+        print("2. The token has the required permissions:")
+        print("   - repo (Full control of private repositories)")
+        print("   - read:user (Read ALL user profile data)")
+        print("   - user:email (Access user email addresses)")
+        print("   - read:org (Read org and team membership)")
+        print("3. Your username is correct")
+        print("\nFor detailed error information, check github_stats.log")

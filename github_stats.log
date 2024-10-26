@@ -17,3 +17,8 @@ To create a GitHub access token, visit: https://github.com/settings/tokens
 2024-10-26 10:14:26,636 - ERROR - get_repositories request failed: 401 Client Error: Unauthorized for url: https://api.github.com/graphql
 2024-10-26 10:14:26,637 - ERROR - Failed to generate stats: get_repositories failed: 401 Client Error: Unauthorized for url: https://api.github.com/graphql
 2024-10-26 10:14:26,637 - ERROR - Error: get_repositories failed: 401 Client Error: Unauthorized for url: https://api.github.com/graphql
+2024-10-26 10:52:48,527 - ERROR - Error: Invalid GitHub token. Please check your token and ensure it has the required permissions:
+- repo (Full control of private repositories)
+- read:user (Read ALL user profile data)
+- user:email (Access user email addresses)
+- read:org (Read org and team membership)
