@@ -95,7 +95,13 @@
 <h2 align="left">Coding Activity</h2>
 
 > Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
+-   :video_game: I am working as **Principle DevOps Engineer**
+-   :monocle_face: Interested in everything **Cloud Native**
+-   :seedling: Currently learning **Golang**
+-   :heart: Open Source Software
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds..
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
 
